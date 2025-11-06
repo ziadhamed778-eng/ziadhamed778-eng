@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me
-💡 Passionate about **Artificial Intelligence**, **Deep Learning**, and **Computer Vision**,**NLP**,**LLM**.  
+💡 Passionate about **Artificial Intelligence**, **Deep Learning**, and **Computer Vision**, **NLP**, **LLM**.  
 🚀 Always exploring new technologies and building real-world AI projects.  
 📚 Constant learner, focused on improving my skills in ML, DL, and MLOps.  
 
@@ -12,9 +12,22 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,fastapi,flask,aws,azure,docker,opencv,github,vscode,linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,fastapi,flask,aws,azure,docker,opencv,github,vscode" height="40" />
   <br />
   <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,cpp,git" height="40" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+| :--- | :--- | :---: |
+| 🔭 [**Asteroid Collision Prediction (CatBoost vs. LightGBM)**](https://github.com/ziadhamed778-eng/Asteroid-Collision-Prediction-A-CatBoost-vs.-LightGBM-Showdown-R-0.92-) | Built a high-accuracy ML model to predict asteroid collision risk using **CatBoost** and **LightGBM**. CatBoost achieved an **R² = 0.92**, outperforming the baseline by 10%. | `Python` `CatBoost` `LightGBM` `ML` |
+| 💬 [**Twitter Sentiment Analysis using NLTK and VADER**](https://github.com/ziadhamed778-eng/Twitter-Sentiment-Analysis-using-NLTK-and-VADER) | Full NLP pipeline for **text cleaning**, **sentiment analysis**, and **classification** of tweets using **NLTK** and **VADER**. | `Python` `NLP` `NLTK` `VADER` |
+
 </div>
 
 ---
